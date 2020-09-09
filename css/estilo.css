@@ -9,10 +9,19 @@
 	position: absolute;
 	top: 300px;
 	left: 900px;
+	background-color: green ;
 }
 
 #campo {
 	width: 4em;
 	display: block;
 	margin-top: 2em;
+	color:red;
+}
+body{
+	background-image:url(https://images2.alphacoders.com/487/thumb-1920-487175.jpg);
+	
+}
+#paragrafo{
+	font-size: 20px;
 }
